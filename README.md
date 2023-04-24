@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Alexander</h1>
 
-<h3 align="left">  # 🚀 About Me </h3>
+<h3 align="left">  🚀 About Me </h3>
 <p align="left">I'm a Software Engineering student from Sweden with 1 year left on my education. </hp>
+---
 
-
-<h3 align="left"> # :hammer_and_wrench: Tech Stack </h3>
+<h3 align="left"> :hammer_and_wrench: Tech Stack </h3>
 <!--p align="left">Here are a few technologies i've been working with recently: </p-->
-
+---
 <p align="left">Programming Languages </p>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
