@@ -50,7 +50,9 @@
 
 <div></div>
 <div><p> </p></div>
-### :bar_chart: GitHub Stats
+
+:bar_chart: GitHub Stats
+
 <div><p></p></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foal20ym&theme=radical&show_icons=true) 
