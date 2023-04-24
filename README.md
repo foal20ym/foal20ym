@@ -1,4 +1,6 @@
 <h1 align="left">Hi 👋, I'm Alexander</h1>
+
+## 🚀 About Me
 <h3 align="left">I'm a Software Engineering student from Sweden.</h3>
 
 
