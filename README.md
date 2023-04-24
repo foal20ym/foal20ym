@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Alexander</h1>
 
-<h3 align="left">  🚀 About Me </h3>
+<h3 align="left">  # 🚀 About Me </h3>
 <p align="left">I'm a Software Engineering student from Sweden with 1 year left on my education. </hp>
 
 
-<h3 align="left"> :hammer_and_wrench: Tech Stack </h3>
+<h3 align="left"> # :hammer_and_wrench: Tech Stack </h3>
 <!--p align="left">Here are a few technologies i've been working with recently: </p-->
 
 <p align="left">Programming Languages </p>
