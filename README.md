@@ -51,7 +51,7 @@
 <div></div>
 <div><p> </p></div>
 
-:bar_chart: GitHub Stats
+## :bar_chart: GitHub Stats
 
 <div><p></p></div>
 
