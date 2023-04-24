@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Alexander</h1>
 
-<h3 align="left">  🚀 About Me </h3>
+## 🚀 About Me
 <p align="left">I'm a Software Engineering student from Sweden with 1 year left on my education. </hp>
 ---
 
-<h3 align="left"> :hammer_and_wrench: Tech Stack </h3>
+## :hammer_and_wrench: Tech Stack 
 <!--p align="left">Here are a few technologies i've been working with recently: </p-->
 ---
 <p align="left">Programming Languages </p>
@@ -50,7 +50,7 @@
 
 <div></div>
 <div><p> </p></div>
-<h3 align="left"> :bar_chart: Stats </h3>
+## :bar_chart: GitHub Stats
 <div><p> </p></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foal20ym&theme=radical&show_icons=true) 
