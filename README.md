@@ -5,7 +5,7 @@
 
 
 <h3 align="left"> :hammer_and_wrench: Tech Stack </h3>
-<p align="left">Here are a few technologies i've been working with recently: </p>
+<!--p align="left">Here are a few technologies i've been working with recently: </p-->
 
 <p align="left">Programming Languages </p>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
