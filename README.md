@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alexander</h1>
 
-## 🚀 About Me
-<h3 align="left">I'm a Software Engineering student from Sweden.</h3>
+<h3 align="left">  🚀 About Me </h3>
+<p align="left">I'm a Software Engineering student from Sweden with 1 year left on my education. </hp>
 
 
 <h3 align="left"> :hammer_and_wrench: Tech Stack </h3>
