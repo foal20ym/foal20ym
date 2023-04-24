@@ -48,11 +48,9 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 
 
+<div><p> </p></div>
 
-
-  <p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foal20ym&theme=radical&show_icons=true) 
- </p>
 
 ### <!-- Hi there 👋 -->
 
