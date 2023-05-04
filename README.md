@@ -54,7 +54,8 @@
 
 <div><p></p></div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foal20ym&theme=radical&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foal20ym&theme=radical&show_icons=true)
+
 
 ### <!-- Hi there 👋 -->
 
