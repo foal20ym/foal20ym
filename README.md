@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Alexander
 
 ## 🚀 About Me
-<p align="left">I'm a Software Engineering student from Sweden with 1 year left on my education. </hp>
+<p align="left">
+  Hi there! I'm a Software Engineering student with one year remaining in my academic journey. I thrive on the thrill of turning complex  problems into elegant and efficient solutions through code. </p>
 
 ## :hammer_and_wrench: Tech Stack 
 <!--p align="left">Here are a few technologies i've been working with recently: </p-->
