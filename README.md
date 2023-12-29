@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 <p align="left">
-  Hi there! I'm a Software Engineering student with one year remaining in my academic journey. I thrive on the thrill of turning complex  problems into elegant and efficient solutions through code. </p>
+  Hi there! My name is Alexander and I'm a Software Engineering student with one year remaining in my academic career. I love problem solving, mathematics, and to learn new technologies and skills. In my opinion there is no better feeling than solving a complex problem you've been stuck on for some time. </p>
 
 ## :hammer_and_wrench: Tech Stack 
 
