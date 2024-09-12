@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 <p align="left">
-  Hi there! My name is Alexander and I'm a Software Engineering student with one year remaining in my academic career. I love problem solving, mathematics, and to learn new technologies and skills. In my opinion there is no better feeling than solving a complex problem you've been stuck on for some time. </p>
+  Hi there! My name is Alexander and I'm an first year AI Engineering Master's student. I love problem solving, mathematics, and to learn new technologies and skills. In my opinion there is no better feeling than solving a complex problem you've been stuck on for some time. </p>
 
 ## :hammer_and_wrench: Tech Stack 
 
