@@ -13,7 +13,22 @@ Researching AI-driven systems, Computer Vision, NLP, and Software Engineering.<b
 I love to build intelligent systems and teaching the next generation of engineers.
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=foal20ym&color=red" alt="Profile Views"/> </p>
+<div align="center">
+<a href="https://www.linkedin.com/in/alexanderforsanker/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:alexander.forsanker@ju.se"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  
+<!--
+<a href="https://scholar.google.com/citations?user=YOURID"> <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/> </a>
+<a href="https://orcid.org/YOUR-ID"> <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/> </a>
+-->
+  
+<p>
+  <img src="https://komarev.com/ghpvc/?username=foal20ym&style=for-the-badge&color=red" alt="Profile Views"/>
+</p>
+
+</div>
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=foal20ym&color=red" alt="Profile Views"/> </p> -->
 
 ---
 
